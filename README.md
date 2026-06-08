@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b700ff&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b700ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+P.+F.+Santana;I+have+19+years+old;I'+am+live+in+Paudalho+PE;I+study+analysis+and+systems+development+at+UniAm%C3%A9ricas;Building+my+tech+journey+with+purpose+%F0%9F%9A%80;ADS+Student+%7C+UniAm%C3%A9ricas+%F0%9F%8E%93;Structuring+real+projects+with+real+planning+%F0%9F%8E%AF;Immersion+phase%3A+solid+technical+base+%F0%9F%94%A5;Here+to+learn%2C+share+and+grow+%F0%9F%A4%9D;New+digital+era+%E2%80%94+this+is+my+path;Always+building.+With+method.+With+intention.+%E2%9A%99%EF%B8%8F;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b700ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+P.+F.+Santana;I+have+20+years+old;I'+am+live+in+Paudalho+PE;I+study+analysis+and+systems+development+at+UniAm%C3%A9ricas;Building+my+tech+journey+with+purpose+%F0%9F%9A%80;ADS+Student+%7C+UniAm%C3%A9ricas+%F0%9F%8E%93;Structuring+real+projects+with+real+planning+%F0%9F%8E%AF;Immersion+phase%3A+solid+technical+base+%F0%9F%94%A5;Here+to+learn%2C+share+and+grow+%F0%9F%A4%9D;New+digital+era+%E2%80%94+this+is+my+path;Always+building.+With+method.+With+intention.+%E2%9A%99%EF%B8%8F;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
      <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=cyberdevoficial&show_icons=true&count_private=true&hide_border=true&title_color=b700ff&icon_color=b700ff&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/>
